@@ -3,9 +3,9 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-aut
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "ISI_PUNYAMU",
-  authDomain: "ISI_PUNYAMU",
-  projectId: "ISI_PUNYAMU"
+  apiKey: "AIzaSyDt6zIrUlmzNxrfcHfRUw3HNicmqH5wqoA",
+  authDomain: "joki-ff.firebaseapp.com",
+  projectId: "joki-ff"
 };
 
 const app = initializeApp(firebaseConfig);
